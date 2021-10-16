@@ -1,0 +1,7 @@
+p {
+    font-family: Arial Black; /*Шриафт текста*/
+    font-style: normal; /*Стиль текста*/
+    font-size: 25px; /*Размер текста*/
+    text-align: center; /*Расположение текста*/
+    color: #fff; /*Цвет текста*/
+}

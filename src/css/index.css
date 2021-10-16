@@ -1,0 +1,29 @@
+ul {
+  list-style: none; /*убираем маркеры списка*/
+  margin: 15px; /*убираем отступы*/
+  padding-center: 0; /*убираем отступы*/
+  margin-top: 25px; /*делаем отступ сверху*/
+}
+a {
+  text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  background:#1f2629fa; /*добавляем фон к пункту меню*/
+  color:rgb(0, 58, 250); /*меняем цвет ссылок*/
+  padding: 10px; /*добавляем отступ*/
+  font-family: Arial Black; /*меняем шрифт*/
+  font-size: 16px; /*Размер шрифта*/
+  border-radius: 15px; /*добавляем скругление*/
+  -moz-transition: all 0.3s 0.01s ease; /*делаем плавный переход*/
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+}
+img {
+  height: 100px; /*Высота изображения*/
+  width: 100px; /*Ширина изображения*/
+}
+a:hover {
+  background:#ffffff;/*добавляем эффект при наведении*/
+}
+li {
+  float:left; /*Размещаем список горизонтально для реализации меню*/
+  margin-right: 10px; /*Добавляем отступ у пунктов меню*/
+}

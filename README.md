@@ -10,3 +10,5 @@
 ### Информация обо мне
 [![VK](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/id650463025)
 [![Discord](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=4F7DB3)](https://discord.gg/kSvzydcc)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=curiousgrids&theme=radical)

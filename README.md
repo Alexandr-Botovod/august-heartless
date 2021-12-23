@@ -3,6 +3,11 @@
 ## Информация обо мне
 ***Я занимаюсь разработкой ботов на языке Java Script использую базу данных MongoDB.***
 
+### Мои Discord-Боты
+![RoboWolf](https://img.shields.io/badge/RoboWolf-08088A?style=for-the-badge&logo=appveyor&logoColor=25C5F8)
+
+![RoboBear](https://img.shields.io/badge/RoboWolf-04B404?style=for-the-badge&logo=appveyor&logoColor=25C5F8)
+
 ### Языки и программы
 ![Java Script](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=flutter&logoColor=47C5F8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-424242?style=for-the-badge&logo=flutter&logoColor=0000ff)
